@@ -1,3 +1,3 @@
 # Double-DQN-MountainCar
 
-Double DQN for the Open AI MountainCar environment, with a notebook that includes a double dqn using a dueling architecture and noisy layer 
+Double DQN for the Open AI MountainCar environment, with a notebook that uses a dueling architecture and noisy layer for exploration. 
